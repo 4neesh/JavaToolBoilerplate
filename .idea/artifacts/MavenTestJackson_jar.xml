@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MavenTestJackson:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MavenTestJackson_jar</output-path>
+    <root id="archive" name="MavenTestJackson.jar">
+      <element id="module-output" name="MavenTestJackson" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.11.0.rc1/jackson-core-2.11.0.rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.11.0.rc1/jackson-annotations-2.11.0.rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.11.0.rc1/jackson-databind-2.11.0.rc1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

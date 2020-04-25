@@ -1,0 +1,4 @@
+[main] INFO  Application  - Starting the application
+[main] FATAL Application  - Unable to find the JSON file
+java.io.IOException: no file
+	at Application.main(Application.java:28)
