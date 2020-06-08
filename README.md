@@ -8,7 +8,7 @@ The Java boilerplate includes Maven dependencies such as Maven-assembly-plugin a
 # Tech/Framework
 <ul>
   <li>Java</li>
-  <li>Spring</li>
+  <li>Maven</li>
 </ul>
 
 # Features
