@@ -3,7 +3,7 @@
 
 
 # Motivation
-The Java boilerplate includes Maven dependencies such as Log4J and aspectJ to enable logging and aspect-orientated programming to be implemented.
+The Java boilerplate includes Maven dependencies such as Maven-assembly-plugin and Log4J to enable logging and for the tool to be packaged with its dependencies.
 
 # Tech/Framework
 <ul>
@@ -13,8 +13,9 @@ The Java boilerplate includes Maven dependencies such as Log4J and aspectJ to en
 
 # Features
 <ul>
-  <li>Pre-defined logging template</li>
-  <li>Pointcut expression examples</li>
+  <li>Pre-defined logging examples</li>
+  <li>Logging properites template</li>
+  <li>Maven dependencies for packaging</li>
 </ul>
 
 # Usage
